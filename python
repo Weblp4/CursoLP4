@@ -1,0 +1,5 @@
+__author__ = "Alumno"
+__date__ = "$29/09/2015 10:31:37 AM$"
+
+if __name__ == "__main__":
+    print "Hello World"
